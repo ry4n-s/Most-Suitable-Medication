@@ -1,4 +1,4 @@
-# Most-Suitable-Medication 🌳💊🔍
+# Most Suitable Medication 🌳💊🔍
 
 ## 🚀 Project Overview
 This repository features a machine learning project focused on predicting the most suitable medication for patients based on their health metrics. The project uses a hypothetical dataset, resembling a real-world medical research scenario, where patients respond to one of five medications based on factors like age, sex, blood pressure, and cholesterol levels. The goal is to build a Decision Tree Classifier model to determine the appropriate drug for future patients with similar health conditions.
